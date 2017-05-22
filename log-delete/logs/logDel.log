@@ -1,0 +1,36 @@
+[10:55:19][DEBUG](LogDel.java:27) - 삭제 대상 경로/var/lib/tomcat-pms/logs
+[10:55:19][DEBUG](LogDel.java:28) - 삭제 대상 경로/var/lib/tomcat-pcs/logs
+[10:55:19][DEBUG](LogDel.java:29) - 삭제 대상 경로/var/lib/oldtomcat-pcs/logs
+[10:55:19][DEBUG](LogDel.java:32) - 로그 삭제 주기..15일
+[10:55:19][DEBUG](LogDel.java:34) - 로그 삭제 키워드..access_log
+[10:55:21][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[10:55:21][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[10:55:21][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[10:55:21][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[10:55:21][INFO ](LogDel.java:62) - /var/lib/tomcat-pcs/logs경로의localhost_access_log.2016-10-10.txt로그를 삭제했습니다.
+[10:55:21][INFO ](LogDel.java:62) - /var/lib/tomcat-pcs/logs경로의localhost_access_log.2016-10-11.txt로그를 삭제했습니다.
+[10:55:21][INFO ](LogDel.java:70) - /var/lib/tomcat-pcs/logs경로의삭제된 로그 갯수 : 2
+[10:55:21][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[10:55:21][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[10:55:21][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[10:55:21][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[10:59:47][DEBUG](LogDel.java:27) - 삭제 대상 경로/var/lib/tomcat-pms/logs
+[10:59:47][DEBUG](LogDel.java:28) - 삭제 대상 경로/var/lib/tomcat-pcs/logs
+[10:59:47][DEBUG](LogDel.java:29) - 삭제 대상 경로/var/lib/oldtomcat-pcs/logs
+[10:59:47][DEBUG](LogDel.java:32) - 로그 삭제 주기..10일
+[10:59:47][DEBUG](LogDel.java:34) - 로그 삭제 키워드..access_log
+[10:59:49][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/tomcat-pms/logs경로의localhost_access_log.2016-10-17.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:70) - /var/lib/tomcat-pms/logs경로의삭제된 로그 갯수 : 1
+[10:59:49][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[10:59:49][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[10:59:49][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[10:59:49][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[10:59:49][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/oldtomcat-pcs/logs경로의localhost_access_log.2016-10-17.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/oldtomcat-pcs/logs경로의localhost_access_log.2016-10-12.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/oldtomcat-pcs/logs경로의localhost_access_log.2016-10-13.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/oldtomcat-pcs/logs경로의localhost_access_log.2016-10-14.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:62) - /var/lib/oldtomcat-pcs/logs경로의localhost_access_log.2016-10-15.txt로그를 삭제했습니다.
+[10:59:49][INFO ](LogDel.java:70) - /var/lib/oldtomcat-pcs/logs경로의삭제된 로그 갯수 : 5
+[10:59:49][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================

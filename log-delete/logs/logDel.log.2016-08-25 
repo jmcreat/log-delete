@@ -1,0 +1,180 @@
+[00:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[00:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[00:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[00:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[00:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[00:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[00:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[00:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[00:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[00:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[00:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[00:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[00:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[01:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[01:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[01:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[01:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[01:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[01:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[01:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[01:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[01:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[01:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[01:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[01:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[01:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[02:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[02:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[02:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[02:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[02:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[02:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[02:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[02:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[02:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[02:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[02:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[02:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[02:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[03:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[03:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[03:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[03:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[03:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[03:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[03:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[03:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[03:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[03:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[03:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[03:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[03:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[04:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[04:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[04:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[04:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[04:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[04:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[04:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[04:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[04:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[04:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[04:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[04:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[04:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[05:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[05:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[05:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[05:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[05:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[05:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[05:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[05:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[05:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[05:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[05:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[05:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[05:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[06:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[06:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[06:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[06:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[06:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[06:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[06:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[06:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[06:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[06:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[06:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[06:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[06:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[07:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[07:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[07:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[07:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[07:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[07:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[07:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[07:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[07:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[07:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[07:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[07:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[07:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[08:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[08:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[08:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[08:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[08:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[08:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[08:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[08:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[08:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[08:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[08:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[08:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[08:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[09:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[09:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[09:18:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[09:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:18:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[09:18:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[09:18:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:18:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[09:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pms/logs로그폴더 삭제할 파일 탐색 시작============
+[09:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pms/logs 삭제할 파일 탐색 완료============================
+[09:48:19][INFO ](LogDel.java:41) - /var/lib/tomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[09:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:48:19][INFO ](LogDel.java:76) - /var/lib/tomcat-pcs/logs 삭제할 파일 탐색 완료============================
+[09:48:19][INFO ](LogDel.java:41) - /var/lib/oldtomcat-pcs/logs로그폴더 삭제할 파일 탐색 시작============
+[09:48:19][INFO ](LogDel.java:72) - 삭제할 파일이 존재하지 않습니다.
+[09:48:19][INFO ](LogDel.java:76) - /var/lib/oldtomcat-pcs/logs 삭제할 파일 탐색 완료============================
